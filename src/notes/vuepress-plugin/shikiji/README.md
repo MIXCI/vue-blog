@@ -1,6 +1,6 @@
 ---
 title: plugin-shikiji
-author: 鹏展博
+author: 君莫愁
 createTime: 2023/12/23 13:21:28
 permalink: /vuepress-plugin/shikiji/
 ---

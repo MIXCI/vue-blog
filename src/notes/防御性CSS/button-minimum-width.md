@@ -1,6 +1,6 @@
 ---
 title: Button Minimum Width
-author: 鹏展博
+author: 君莫愁
 createTime: 2023/08/12 10:00:16
 permalink: /defensive-css/button-minimum-width/
 ---

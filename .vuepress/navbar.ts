@@ -111,6 +111,12 @@ export default defineNavbarConfig([
     ],
   },
   {
+    text: '友链',
+    link: '/friends/',
+    activeMatch: '^/(blog|article)/',
+    icon: 'material-symbols:menu-book',
+  },
+  {
     text: '更多',
     icon: 'mingcute:more-3-fill',
     items: [

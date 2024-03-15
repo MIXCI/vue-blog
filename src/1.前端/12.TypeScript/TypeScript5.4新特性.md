@@ -1,6 +1,6 @@
 ---
 title: TypeScript5.4 值得关注的新特性
-author: 鹏展博
+author: 君莫愁
 createTime: 2024/02/23 21:13:11
 tags: 
   - typescript

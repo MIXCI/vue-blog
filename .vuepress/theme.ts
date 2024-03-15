@@ -4,7 +4,7 @@ import navbar from './navbar.js'
 
 export default plumeTheme({
   logo: '/images/blogger-fav.png',
-  hostname: 'https://pengzhanbo.cn/',
+  hostname: 'https://君莫愁.cool/',
   repo: 'https://github.com/pengzhanbo/pengzhanbo.cn',
   docsDir: 'src',
   contributors: false,
@@ -13,17 +13,17 @@ export default plumeTheme({
   notes,
 
   avatar: {
-    name: '鹏展博',
+    name: '君莫愁',
     url: '/images/blogger-fav.png',
     description: '世间的美好总是不期而遇',
   },
   social: [
-    { icon: 'github', link: 'https://github.com/pengzhanbo' },
-    { icon: 'discord', link: 'https://discord.gg/ZPV9tQyRuh' },
+    { icon: 'github', link: 'https://github.com/mixci' }
+    // { icon: 'discord', link: 'https://discord.gg/ZPV9tQyRuh' },
   ],
 
   editLinkText: '在 GitHub 上编辑此页',
-  footer: { copyright: 'Copyright © 2021-present pengzhanbo' },
+  footer: { copyright: 'Copyright © 2022-present 君莫愁' },
 
   plugins: {
     externalLinkIcon: false,
@@ -40,10 +40,10 @@ export default plumeTheme({
     comment: {
       provider: 'Giscus',
       comment: true,
-      repo: 'pengzhanbo/pengzhanbo.cn',
-      repoId: 'MDEwOlJlcG9zaXRvcnkxNDgwMzY4MDc=',
-      category: 'Blog-Comment',
-      categoryId: 'DIC_kwDOCNLcx84CUulO',
+      repo: 'mixci/giscus',
+      repoId: 'R_kgDOLg0MFg',
+      category: 'Show and tell',
+      categoryId: 'DIC_kwDOLg0MFs4Cd_vn',
       mapping: 'pathname',
       reactionsEnabled: true,
       inputPosition: 'top',

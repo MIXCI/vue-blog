@@ -4,7 +4,7 @@ createTime: 2021/12/28 12:51:54
 permalink: /article/0ed6asz0/
 tags: 
   - deploy
-author: 鹏展博
+author: 君莫愁
 ---
 
 `Docker` 是一个开源的应用容器引擎，它可以将应用打包到一个可移植的镜像中，使得应用可以更轻便的部署在任意 Linux 或 Windows 的操作系统的机器上。同时还提供了环境隔离，很大程度上避免了不同环境不一致带来的各种问题。`Docker`可轻便移植的特性，也极大的促进了 `CI/CD` 的发展。

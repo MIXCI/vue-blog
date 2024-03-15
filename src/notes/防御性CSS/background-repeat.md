@@ -1,6 +1,6 @@
 ---
 title: Background repeat
-author: 鹏展博
+author: 君莫愁
 createTime: 2023/08/05 22:56:46
 permalink: /defensive-css/background-repeat/
 ---

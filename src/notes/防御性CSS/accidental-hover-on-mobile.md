@@ -1,6 +1,6 @@
 ---
 title: Accidental Hover On Mobile
-author: 鹏展博
+author: 君莫愁
 createTime: 2023/08/10 14:18:47
 permalink: /defensive-css/accidental-hover-on-mobile/
 ---

@@ -1,6 +1,6 @@
 ---
 title: Long Content
-author: 鹏展博
+author: 君莫愁
 createTime: 2023/08/03 19:15:44
 permalink: /defensive-css/long-content/
 ---

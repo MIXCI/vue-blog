@@ -1,6 +1,6 @@
 ---
 title: unknown 类型应用场景
-author: 鹏展博
+author: 君莫愁
 createTime: 2022/04/02 10:53:19
 tags: 
   - typescript

@@ -1,6 +1,6 @@
 ---
 title: Scroll Gutter
-author: 鹏展博
+author: 君莫愁
 createTime: 2023/08/08 21:58:55
 permalink: /defensive-css/scroll-gutter/
 ---

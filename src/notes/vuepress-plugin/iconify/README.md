@@ -1,6 +1,6 @@
 ---
 title: plugin-iconify
-author: 鹏展博
+author: 君莫愁
 createTime: 2023/02/26 05:07:33
 permalink: /vuepress-plugin/iconify/
 ---

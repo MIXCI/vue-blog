@@ -10,7 +10,7 @@ const resolve = (...dirs: string[]) => path.resolve(__dirname, ...dirs)
 export default defineUserConfig({
   lang: 'zh-CN',
   locales: {
-    '/': { lang: 'zh-CN', title: '鹏展博', description: '热爱生活' },
+    '/': { lang: 'zh-CN', title: '君莫愁', description: '热爱生活' },
   },
   dest: 'docs',
   public: resolve('public'),
@@ -21,7 +21,7 @@ export default defineUserConfig({
     ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
     ['link', { rel: 'mask-icon', href: '/safari-pinned-tab.svg', color: '#5bbad5' }],
-    ['meta', { name: 'keywords', content: '鹏展博,前端,pengzhanbo,front-end' }],
+    ['meta', { name: 'keywords', content: '君莫愁,前端,pengzhanbo,front-end' }],
     ['meta', { 'http-equiv': 'X-UA-Compatible', 'content': 'IE=edg' }],
     ['meta', { name: 'msapplication-TileColor', content: '#da532c' }],
     ['meta', { name: 'theme-color', content: '#ffffff' }],

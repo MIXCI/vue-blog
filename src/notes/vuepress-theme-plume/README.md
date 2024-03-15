@@ -2,7 +2,7 @@
 title: vuepress-theme-plume
 createTime: 2022/04/08 08:52:12
 permalink: /vuepress-theme-plume/
-author: 鹏展博
+author: 君莫愁
 ---
 
 <Stamps :stamps="['nv', 'ndy', 'g']" repo="pengzhanbo/vuepress-theme-plume"  />

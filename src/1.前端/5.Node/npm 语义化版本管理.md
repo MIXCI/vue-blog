@@ -1,6 +1,6 @@
 ---
 title: npm 语义化版本管理
-author: 鹏展博
+author: 君莫愁
 tags: 
   - node
 createTime: 2023/05/13 22:36:26

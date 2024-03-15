@@ -1,6 +1,6 @@
 ---
 title: plugin-notes-data
-author: 鹏展博
+author: 君莫愁
 createTime: 2023/02/26 05:07:59
 permalink: /vuepress-plugin/notes-data/
 ---

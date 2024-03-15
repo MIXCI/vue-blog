@@ -1,6 +1,6 @@
 ---
 title: Default FlexBox Stretching
-author: 鹏展博
+author: 君莫愁
 createTime: 2023/08/11 10:23:19
 permalink: /defensive-css/default-flexbox-stretching/
 ---

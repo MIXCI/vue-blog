@@ -1,6 +1,6 @@
 ---
 title: plugin-content-update
-author: 鹏展博
+author: 君莫愁
 createTime: 2023/12/30 23:22:35
 permalink: /vuepress-plugin/content-update/
 ---

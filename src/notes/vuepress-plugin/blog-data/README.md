@@ -1,6 +1,6 @@
 ---
 title: plugin-blog-data
-author: 鹏展博
+author: 君莫愁
 createTime: 2023/02/26 05:06:44
 permalink: /vuepress-plugin/blog-data/
 ---

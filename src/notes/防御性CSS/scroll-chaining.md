@@ -1,6 +1,6 @@
 ---
 title: Scroll Chaining
-author: 鹏展博
+author: 君莫愁
 createTime: 2023/08/08 20:59:44
 permalink: /defensive-css/scroll-chaining/
 ---

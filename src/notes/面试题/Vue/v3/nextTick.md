@@ -1,6 +1,6 @@
 ---
 title: nextTick
-author: 鹏展博
+author: 君莫愁
 createTime: 2022/04/25 19:28:09
 permalink: /interview-question/e3adhfty/
 ---

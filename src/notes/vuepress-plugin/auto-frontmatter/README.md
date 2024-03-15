@@ -1,6 +1,6 @@
 ---
 title: plugin-auto-frontmatter
-author: 鹏展博
+author: 君莫愁
 createTime: 2023/02/26 04:21:15
 permalink: /vuepress-plugin/auto-frontmatter/
 ---

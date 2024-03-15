@@ -1,6 +1,6 @@
 ---
 title: 站点收集
-author: 鹏展博
+author: 君莫愁
 createTime: 2022/11/05 10:39:43
 permalink: /sites-collect/
 article: false

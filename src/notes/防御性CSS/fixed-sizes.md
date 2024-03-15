@@ -1,6 +1,6 @@
 ---
 title: Fixed sizes
-author: 鹏展博
+author: 君莫愁
 createTime: 2023/08/07 09:25:43
 permalink: /defensive-css/fixed-sizes/
 ---

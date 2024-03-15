@@ -1,6 +1,6 @@
 ---
 title: watch-watchEffect
-author: 鹏展博
+author: 君莫愁
 createTime: 2022/04/25 22:19:38
 permalink: /interview-question/6lud0xnd/
 ---
