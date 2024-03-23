@@ -4,7 +4,7 @@ import navbar from './navbar.js'
 
 export default plumeTheme({
   logo: '/images/blogger-fav.png',
-  hostname: 'https://君莫愁.cool/',
+  hostname: 'https://wspbk.com/',
   repo: 'https://github.com/pengzhanbo/pengzhanbo.cn',
   docsDir: 'src',
   contributors: false,
@@ -13,7 +13,7 @@ export default plumeTheme({
   notes,
 
   avatar: {
-    name: '君莫愁',
+    name: '王世朋',
     url: '/images/blogger-fav.png',
     description: '世间的美好总是不期而遇',
   },
@@ -23,7 +23,7 @@ export default plumeTheme({
   ],
 
   editLinkText: '在 GitHub 上编辑此页',
-  footer: { copyright: 'Copyright © 2022-present 君莫愁' },
+  footer: { copyright: 'Copyright © 2022-present 王世朋' },
 
   plugins: {
     externalLinkIcon: false,

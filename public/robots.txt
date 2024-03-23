@@ -3,4 +3,4 @@
 
 User-agent: *
 Allow: /
-Sitemap: https://pengzhanbo.cn/sitemap.xml
+Sitemap: https://wspbk.com/sitemap.xml
